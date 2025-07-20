@@ -821,7 +821,7 @@ hexo-generator-archive@^2.0.0:
 
 hexo-generator-category@^2.0.0:
   version "2.0.0"
-  resolved "http://mirrors.cloud.tencent.com/npm/hexo-generator-category/-/hexo-generator-category-2.0.0.tgz"
+  resolved "http://mirrors.cloud.tencent.com/npm/hexo-generator-category/-/hexo-generator-category-2.0.0.tgz#55473d5fafaec1cab7a5d9c0da7b159c0133d65c"
   integrity sha512-9OduRBf3WeRDa4BR0kAfRjOVHur7v3fm0NKAwbjUiqULigAdNZVZPO3cHKW2MlBbl/lI5PuWdhQ9zZ99CCCAgQ==
   dependencies:
     hexo-pagination "3.0.0"
@@ -835,7 +835,7 @@ hexo-generator-index@^4.0.0:
 
 hexo-generator-tag@^2.0.0:
   version "2.0.0"
-  resolved "http://mirrors.cloud.tencent.com/npm/hexo-generator-tag/-/hexo-generator-tag-2.0.0.tgz"
+  resolved "http://mirrors.cloud.tencent.com/npm/hexo-generator-tag/-/hexo-generator-tag-2.0.0.tgz#f5a18c92b2f28063a76008b4090a7cea81fbbcc0"
   integrity sha512-1px/hF3veEohWDN8jjzchQhaiz+uOStUvvMaBJC9vWOlALh30UFcapL8IrvAwwJZjFRVA+WqGgDRqoQ8+yaaFw==
   dependencies:
     hexo-pagination "3.0.0"

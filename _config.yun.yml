@@ -1,0 +1,95 @@
+wordcloud:
+  enable: true
+
+banner:
+  enable: true
+  title: 人生一场大梦
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+bg_image:
+  enable: true
+  url: https://s21.ax1x.com/2025/07/20/pV8m76g.jpg
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.7
+
+search:
+  modal: true
+  bg_image: https://s21.ax1x.com/2025/07/20/pV8m76g.jpg
+  # placeholder:
+
+fireworks:
+  enable: true
+  colors:
+    - '102, 167, 221'
+    - '62, 131, 225'
+    - '33, 78, 194'
+
+# _config.yun.yml
+medium_zoom: true
+
+scrollreveal:
+  enable: true
+  targets:
+    - .post-card
+    - .markdown-body img
+
+sidebar:
+  tagcloud:
+    enable: true
+    amount: 20
+
+avatar:
+  enable: true
+  url: /images/avatar.jpg
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 😭
+    message: 不想上学
+
+favicon: /favicon.ico
+
+social:
+  - name: RSS
+    # set rss in your root config
+    # https://github.com/hexojs/hexo-generator-feed
+    link: /atom.xml # config.feed.path
+    icon: ri:rss-line
+    color: orange
+  - name: GitHub
+    link: https://github.com/smallAWqwq
+    icon: ri:github-line
+    color: '#181717'
+  - name: E-Mail
+    link: mailto:me@yunyoujun.cn
+    icon: ri:mail-line
+    color: '#8E71C1'
+  - name: 网易云音乐
+    link: https://music.163.com/#/user/home?id=6392980401
+    icon: ri:netease-cloud-music-line
+    color: '#C10D0C'
+  - name: 知乎
+    link: https://www.zhihu.com/people/smallaw
+    icon: ri:zhihu-line
+    color: '#0084FF'
+  - name: 哔哩哔哩动画
+    link: https://space.bilibili.com/1803576984
+    icon: ri:bilibili-line
+    color: '#FF8EB3'
+
+say:
+  enable: true
+  api: https://cdn.jsdelivr.net/gh/ElpsyCN/say@gh-pages/sentences.json
+  # https://developer.hitokoto.cn/sentence/
+  hitokoto:
+    enable: true
+    api: https://v1.hitokoto.cn
