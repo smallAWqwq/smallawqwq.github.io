@@ -44,18 +44,18 @@ tags:
 
 选择自己系统版本点击，
 
-![](\images\vmware\1.png)
+![](/images/vmware/1.png)
 
 自己爱下什么版本就爱下什么版本，我个人觉得越新越好啦，
 
-![](\images\vmware\2.png)
+![](/images/vmware/2.png)
 
 然后又很恶心的地方来了，懒得写了你们直接看图片吧。
 
-![](\images\vmware\3.png)
-![](\images\vmware\4.png)
-![](\images\vmware\5.png)
-![](\images\vmware\6.png)
+![](/images/vmware/3.png)
+![](/images/vmware/4.png)
+![](/images/vmware/5.png)
+![](/images/vmware/6.png)
 
 然后再点那个下载按钮就好
 
