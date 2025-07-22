@@ -93,3 +93,19 @@ say:
   hitokoto:
     enable: true
     api: https://v1.hitokoto.cn
+
+footer:
+  enable: true
+  since: 2024
+
+comment:
+  enable: true
+  candidates:
+    - waline
+    - utterances
+
+waline:
+  enable: true
+  serverURL: https://hexo-page-waline-riyheou2k-smallawqwqs-projects.vercel.app
+  visitor: true
+  comment: false
