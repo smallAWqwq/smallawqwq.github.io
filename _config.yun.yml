@@ -53,8 +53,8 @@ avatar:
   mickey_mouse: false
   status:
     enable: true
-    emoji: 😭
-    message: 不想上学
+    emoji: 😁
+    message: 放假ing
 
 favicon: /favicon.ico
 
