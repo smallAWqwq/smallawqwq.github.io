@@ -10,6 +10,11 @@ export default defineSiteConfig({
   author: {
     name: '渊林 & 芋泥',
     avatar: 'https://s21.ax1x.com/2025/07/23/pVGakwt.jpg',
+    status:
+    {
+      message: '放假ing',
+      emoji: '😁',
+    }
   },
   description: '渊林の小站 - 记录生活点滴',
   favicon: './favicon.ico',
