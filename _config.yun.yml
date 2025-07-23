@@ -106,6 +106,6 @@ comment:
 
 waline:
   enable: true
-  serverURL: https://hexo-page-waline-riyheou2k-smallawqwqs-projects.vercel.app
+  serverURL: https://hexo-page-waline.vercel.app/
   visitor: true
   comment: false
