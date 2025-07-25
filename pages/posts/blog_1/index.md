@@ -132,7 +132,10 @@ git init
 # 与远程 Git 仓库建立连接，只此一次即可
 git remote add origin https://github.com/你的用户名/你的名字.github.io
 ```
-每次坐好修改后，输入一下命令
+打开你的仓库界面，依次点击Settings->Actions->General->Workflow permissions，选择“Read and write permissions”，然后点击Save，
+![](./3.png)
+![](./4.png)
+每次做好修改后，输入一下命令
 ```sh
 # 把文件添加到仓库中
 git add -A
@@ -144,4 +147,8 @@ git push origin main
 当然你也可以直接建立一个 .bat（windows用户） 或者 .sh（linux用户）文件进行快速上传。
 
 打开你的仓库页面，https://github.com/用户名/用户名.github.io，等到这个黄点变绿√后，
+![](./5.png)
+![](./6.png)
+依次点击 Settings->Pages，在 Brance里边选择 gh-pages 分支，只此，打开网址 `https://你的用户名.github.io` 你的博客（虽然还只是创建时的模板）就搭建成功啦。
 
+之后的配置请看（二）
