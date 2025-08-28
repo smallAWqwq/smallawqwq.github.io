@@ -90,3 +90,7 @@ wsl --list
 wsl --set-default-version 2
 ```
 这样你就可以查看 GUI 界面啦！
+
+# 使用感言
+
+真的很建议尝试一下，真的很好用
