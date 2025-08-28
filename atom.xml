@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://smallawqwq.github.io/</id>
+    <title>渊林の小站</title>
+    <updated>2025-08-28T08:12:10.841Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>渊林 &amp; 芋泥</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://smallawqwq.github.io/"/>
+    <link rel="self" href="https://smallawqwq.github.io/atom.xml"/>
+    <subtitle>渊林の小站 - 记录生活点滴</subtitle>
+    <logo>https://s21.ax1x.com/2025/07/23/pVGakwt.jpg</logo>
+    <icon>https://smallawqwq.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © 渊林 &amp; 芋泥</rights>
+    <entry>
+        <title type="html"><![CDATA[别样的构造大赛]]></title>
+        <id>https://smallawqwq.github.io/posts/gouzaodasai/index</id>
+        <link href="https://smallawqwq.github.io/posts/gouzaodasai/index"/>
+        <updated>2025-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>一天，矩阵群给我打来电话。他说：“你敢不敢和我举行 OI 比赛？”</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/gouzaodasai/index" target="_blank">https://smallawqwq.github.io/posts/gouzaodasai/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>渊林 &amp; 芋泥</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[适用于 Linux 的 Windows 子系统（WSL）安装教程]]></title>
+        <id>https://smallawqwq.github.io/posts/wsl1/index</id>
+        <link href="https://smallawqwq.github.io/posts/wsl1/index"/>
+        <updated>2025-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>如果你依赖着 Windows 上丰富的游戏与软件，但同时又是个程序员，得装个 Linux 为了搞开发，又不想耗费大量储存弄双系统，请看看这篇博客。</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/wsl1/index" target="_blank">https://smallawqwq.github.io/posts/wsl1/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>渊林 &amp; 芋泥</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vmware安装包的下载]]></title>
+        <id>https://smallawqwq.github.io/posts/vmware/index</id>
+        <link href="https://smallawqwq.github.io/posts/vmware/index"/>
+        <updated>2025-07-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>现在环境也是好起来了，VMware Workstation都可以免费使用了。</p>
+<p>只是。。。想下载可能会有点麻烦。</p>
+<br/><p>访问 <a href="https://smallawqwq.github.io/posts/vmware/index" target="_blank">https://smallawqwq.github.io/posts/vmware/index</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>渊林 &amp; 芋泥</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-07-20T00:00:00.000Z</published>
+    </entry>
+</feed>
