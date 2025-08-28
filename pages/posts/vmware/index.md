@@ -6,7 +6,6 @@ categories: 虚拟机安装
 tags:
   - 虚拟机
   - 软件
-top: 2
 ---
 
 现在环境也是好起来了，VMware Workstation都可以免费使用了。
