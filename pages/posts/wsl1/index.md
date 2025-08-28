@@ -25,8 +25,8 @@ WSL(Windows Subsystem for Linux)，适用于 Linux 的 Windows 子系统，现�
 
 请确保是管理员用户，打开控制面板，搜索“功能”，点开“启用或关闭 Windows 功能”，勾选 “Heper-V” 以及 适用于 “Linux 的 Windows 子系统”。
 
-![](1.png)
-![](2.png)
+![](./1.png)
+![](./2.png)
 
 等待功能所需文件下好后，重启系统（PS：确保该保存的文件已经保存）
 
@@ -45,7 +45,7 @@ wsl --update
 ## 微软商店法
 
 打开 Microsoft Store，搜索你喜欢的 Linux 系统分支，这里以 Ubuntu 为例，直接下载安装（这步操作建议关闭梯子）。
-![](3.png)
+![](./3.png)
 
 ## 命令行法
 
@@ -69,7 +69,7 @@ wsl.exe --install [Distro]
 
 设置完后，你就可以愉快地在 Windows 里~~流畅地（应该吧~~使用 Linux 系统啦！
 
-![](4.png)
+![](./4.png)
 
 # 文件系统
 
@@ -90,7 +90,3 @@ wsl --list
 wsl --set-default-version 2
 ```
 这样你就可以查看 GUI 界面啦！
-
-# 使用感言
-
-真的很建议尝试一下，真的很好用
