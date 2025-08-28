@@ -13,7 +13,7 @@ top: 1
 
 <!-- more -->
 
-# 前言
+## 前言
 
 WSL(Windows Subsystem for Linux)，适用于 Linux 的 Windows 子系统，现在已经非常成熟了，随着 wsl2 的发布，更是支持了 gui 界面，
 
@@ -21,7 +21,7 @@ WSL(Windows Subsystem for Linux)，适用于 Linux 的 Windows 子系统，现�
 
 总之就是非常方便搞 Linux 开发。
 
-# 功能开启
+## 功能开启
 
 请确保是管理员用户，打开控制面板，搜索“功能”，点开“启用或关闭 Windows 功能”，勾选 “Heper-V” 以及 适用于 “Linux 的 Windows 子系统”。
 
@@ -30,7 +30,7 @@ WSL(Windows Subsystem for Linux)，适用于 Linux 的 Windows 子系统，现�
 
 等待功能所需文件下好后，重启系统（PS：确保该保存的文件已经保存）
 
-# 安装 wsl
+## 安装 wsl
 
 以管理员身份运行终端，键入
 ```sh
@@ -40,14 +40,14 @@ wsl --update
 
 重启计算机。
 
-# 安装发行版系统
+## 安装发行版系统
 
-## 微软商店法
+### 微软商店法
 
 打开 Microsoft Store，搜索你喜欢的 Linux 系统分支，这里以 Ubuntu 为例，直接下载安装（这步操作建议关闭梯子）。
 ![](./3.png)
 
-## 命令行法
+### 命令行法
 
 以管理员身份运行终端，键入
 ```sh
@@ -55,7 +55,7 @@ wsl.exe --install [Distro]
 ```
 其中 [Distro] 字段改为你喜欢的 Linux 发行版，不键入默认为 Ubuntu。
 
-# 设置 Linux 用户信息
+## 设置 Linux 用户信息
 
 在开始菜单内找到 wsl 并打开，如果你使用微软商店安装发行本，则在开始菜单能够直接找到你安装的发行版。
 
@@ -71,13 +71,13 @@ wsl.exe --install [Distro]
 
 ![](./4.png)
 
-# 文件系统
+## 文件系统
 
 在 Windows 里，你可以在文件管理器中找到“Linux”字样，你也可以在 Linux 终端里键入 `explore.exe .` 以在 windows 文件资源管理器中打开当前目录。（确保最后的“.”已输入）
 
 在 Linux 里，通过导航到“/mnt”，可以直接访问 Windows 上的文件，例如 `cd /mnt/c` 可以跳转到 Windows 上的 C 盘目录。
 
-# GUI？请安装 WSL2
+## GUI？请安装 WSL2
 
 从 wsl2 开始支持显示 Linux 程序的 GUI 界面。
 
